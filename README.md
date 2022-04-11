@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hello! Im Panda.xyz
+  
+![Follow](https://img.shields.io/github/followers/Pandaxyz-xd?color=gree&style=flat-square)
 
-<!--
-**Pandaxyz-xd/Pandaxyz-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Apoyo](https://img.shields.io/badge/GreenPeace-Support%20%F0%9F%92%96-green)
+ 
 
-Here are some ideas to get you started:
+## 📐 Cybersecurity Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>  I really like programming, I love finding vulnerabilities and finding bugs 
+
+
+## ✖️ Language
+
+> I like to be fullstack since I do backend and frontend
+
+## 💼 Where I work?
+
+> I work on operating systems like Kali Linux and Windows
+
