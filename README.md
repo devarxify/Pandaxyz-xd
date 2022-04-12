@@ -4,6 +4,9 @@
 
 # 👋 Hello! Im Panda.xyz
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Pandaxyz-xd)
+
 ```js
 const Skills Language  = [
   { name: "🟠 HTML5"},
@@ -20,6 +23,8 @@ const Study Language  = [
 ]
 ```
   
+ [![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Pandaxyz-xd)
 
 <img align="left" alt="Followers" src="https://img.shields.io/github/followers/Pandaxyz-xd?color=gree&style=flat-square"/>
 <img align="center" alt="Apoyo" src="https://img.shields.io/badge/GreenPeace-Support%20%F0%9F%92%96-green"/>
