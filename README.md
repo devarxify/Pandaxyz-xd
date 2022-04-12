@@ -8,11 +8,12 @@
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
-
 <h1 align="center"> 👋 Hello! Im Panda.xyz </h1>
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Pandaxyz-xd)
+
+
+<a href="https://github.com/Pandaxyz-xd"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ```js
 const Skills Language  = [
@@ -30,11 +31,12 @@ const Study Language  = [
 ]
 ```
   
- [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Pandaxyz-xd)
+
 
 <img align="left" alt="Followers" src="https://img.shields.io/github/followers/Pandaxyz-xd?color=gree&style=flat-square"/>
 <img align="center" alt="Apoyo" src="https://img.shields.io/badge/GreenPeace-Support%20%F0%9F%92%96-green"/>
+
+<a href="https://github.com/Pandaxyz-xd"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📐 Cybersecurity Student
 
