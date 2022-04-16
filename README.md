@@ -17,17 +17,17 @@
 
 ```js
 const Skills Language  = [
-  { name: "🟠 HTML5"},
-  { name: "🟡 CSS3"},
-  { name: "🔵 PYTHON"}
+  { name: "🟠 Html5"},
+  { name: "🟡 Css3"},
+  { name: "🔵 Python"}
 ]
 ```
 
 ```js
 const Study Language  = [
-  { name: "🟢 Node.js"},
+  { name: "🟢 JavaScript"},
   { name: "🟣 PHP"},
-  { name: "🟤 REACT"}
+  { name: "🟤 React"}
 ]
 ```
   
