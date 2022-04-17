@@ -6,9 +6,17 @@
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  
 </div>
 </p>
-<h1 align="center"> 👋 𝐻𝑒𝑙𝑙𝑜! 𝐼𝑚 ᕈᥲᥒᑯᥲ.xყⱬ </h1>
+
+<p>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Im+Panda.xyz">
+    </div>
+    </p>
+
+
 
 
 
