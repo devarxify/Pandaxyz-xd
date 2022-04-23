@@ -1,15 +1,15 @@
 
 ----
 
-<p align="center">
+<p align="center"> :bowtie:
 <strong><a href="https://www.youtube.com/channel/UCjUTSEfVbWGrVcHZTas-low">YouTube</a></strong>
 |
 <strong><a href="https://dsc.gg/pye">Discord</a></strong>
 |
 <strong><a href="https://replit.com/@pandaxyzdevelop/">Replit</a></strong>
 |
-<strong><a href="https://github.com/Pandaxyz-xd/Playwright.dev">Playwright.dev</a></strong>
-</p>
+<strong><a href="https://github.com/Pandaxyz-xd/Playwright.dev">Playwright.dev</a></strong> :bowtie:
+</p> 
 
 ----
 
