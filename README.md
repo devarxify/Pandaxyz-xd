@@ -8,7 +8,7 @@
 |
 <strong><a href="https://replit.com/@pandaxyzdevelop/">Replit</a></strong>
 |
-<strong><a href="https://github.com/Pandaxyz-xd/Playwright.dev">Playwright.dev</a></strong> :bowtie:
+<strong><a href="https://github.com/Pandaxyz-xd/Playwright.dev">Playwright.dev</a></strong>
 </p> 
 
 ----
