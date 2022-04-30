@@ -43,16 +43,16 @@ const Study Language  = [
 ]
 ```
 ```python
-from Pandaxyz import github
-about_me = {
-"name": "Pandaxyz-xd",
-"Language": "Spanish",
-"skills": ("python", "html5", "css3"),
-"sm": ("YouTube", "Twitch", "Twitter", "InstaGram")
+from pandaxyz import Github
+aboutme = {
+    "Name": "Pandaxyz",
+    "Language": "Spanish",
+    "Operating System": "Kali Linux or Windows 11"
 }
-print("Hola! Me llamo"+about_me["name"])
-print("Speak in"+about_me["language"])
-print("My social media"+about_me["sm"])
+
+print("Hello World! My name is "+aboutme["Name"])
+print("I'm from Spain and I speak "+aboutme["Language"])
+print("I work in "+aboutme["Operating System"])
 
 ```
 
