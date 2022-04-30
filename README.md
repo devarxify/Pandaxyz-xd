@@ -36,21 +36,25 @@
 
 
 ```js
-const Skills Language  = [
-  { name: "🟠 Html5"},
-  { name: "🟡 Css3"},
-  { name: "🔵 Python"}
-]
-```
-
-```js
 const Study Language  = [
   { name: "🟢 JavaScript"},
   { name: "🟣 PHP"},
   { name: "🟤 React"}
 ]
 ```
-  
+```python
+from Pandaxyz import github
+about_me = {
+"name": "Pandaxyz-xd",
+"Language": "Spanish",
+"skills": ("python", "html5", "css3"),
+"sm": ("YouTube", "Twitch", "Twitter", "InstaGram")
+}
+print("Hola! Me llamo"+about_me["name"])
+print("Speak in"+about_me["language"])
+print("My social media"+about_me["sm"])
+
+```
 
 
 <img align="left" alt="Followers" src="https://img.shields.io/github/followers/Pandaxyz-xd?color=gree&style=flat-square"/>
