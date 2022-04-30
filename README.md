@@ -24,7 +24,7 @@
 
 <p>
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Im+Panda.xyz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=374df4&size=30&lines=Hey!+Im+Panda.xyz">
     </div>
     </p>
 
