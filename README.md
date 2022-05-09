@@ -38,8 +38,9 @@
 ```js
 const Study Language  = [
   { name: "🟢 JavaScript"},
-  { name: "🟣 PHP"},
-  { name: "🟤 React"}
+  { name: "📚 PHP"},
+  { name: "⭐ React"}
+  { name: "🌿 C# / Console"}
 ]
 ```
 ```python
