@@ -1,17 +1,20 @@
+<a href="https://github.com/Pandaxyz-xd"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-----
+<p>
+<div align="center">
 
-<p align="center"> :bowtie:
-<strong><a href="https://www.youtube.com/channel/UCjUTSEfVbWGrVcHZTas-low">YouTube</a></strong>
-|
-<strong><a href="https://dsc.gg/pye">Discord</a></strong>
-|
-<strong><a href="https://replit.com/@pandaxyzdevelop/">Replit</a></strong>
-|
-<strong><a href="https://github.com/Pandaxyz-xd/Playwright.dev">Playwright.dev</a></strong>
-</p> 
+<a href="https://tiktok.com/@im...pandaxyz/"> <img  src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"> </a>
+<a href="https://twitter.com/PandaxyzD"> <img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+<a href="https://github.com/Pandaxyz-xd"> <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://www.youtube.com/channel/UCjUTSEfVbWGrVcHZTas-low"> <img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
+<a href="https://stackoverflow.com/users/18999201/pandaxyz-xd"> <img  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> </a>
+  
+</div>
+</p>
 
-----
+
+
+<a href="https://github.com/Pandaxyz-xd"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p>
 <div align="center">
@@ -79,3 +82,4 @@ print("I work in "+aboutme["Operating System"])
 ## 🏠 Platforms where I work
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/>
+<a href="https://github.com/Pandaxyz-xd"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
