@@ -1,6 +1,5 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast](https://readme-typing-svg.herokuapp.com?size=23&color=47F718&background=FF3B3B00&lines=Hello+World!+Im+Pandaxyz;Cybersecurity+Student;Python+Developer" alt="Headline" />
-  <h1 align="center"> 🤝 Hey! Im @Panda.xyz </h1>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pandaxyz-xd&label=Profile%20views&color=0e75b6&style=flat" alt="pandaxyz-xd" /> </p>
