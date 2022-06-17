@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pandaxyz-xd&label=Profile%20views&color=0e75b6&style=flat" alt="pandaxyz-xd" /> </p>
 
-- 🌱 I’m currently learning **Papyrus & Java**
+- 🌱 I’m currently learning **Java & React**
 
 <p align="center">
 </p>
