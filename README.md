@@ -7,17 +7,40 @@
 <img align="left" src="https://i.imgur.com/1pJ7r0H.png" widht="45" height="45">
 <h2 align="left"> Skills </h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="https://es.wikipedia.org/wiki/HTML5">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a href="https://es.wikipedia.org/wiki/CSS">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<a href="https://es.wikipedia.org/wiki/JavaScript">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</a>
+
+<a href="https://go.dev/">
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+</a>
+
+<a href="https://es.wikipedia.org/wiki/C_Sharp">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</a>
+
+
 
 ---
 
 <img align="left" src="https://i.imgur.com/1pJ7r0H.png" widht="45" height="45">
 <h2 align="left"> Tools I use </h2>
+
+<a href="https://www.adobe.com/">
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+</a>
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -38,6 +61,31 @@
 <a href="https://discord.gg/hQ8VVp2Xv5">
 <img src="https://img.shields.io/badge/%3CPandaxyz Server%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+
+---
+
+<img align="left" src="https://i.imgur.com/1pJ7r0H.png" widht="45" height="45">
+<h2 align="left"> Social Media </h2>
+
+<a href="https://www.youtube.com/channel/UC3DgFR_Tcgpnjn1LOfIM6Ig">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+</a>
+
+<a href="https://instagram.com/_Pandaxyz/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
+<a href="https://bin.sx/jlcIKSgi9p">
+<img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
+</a>
+
+<a href="https://www.tiktok.com/@pandaxyz_oficial/">
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+</a>
+
+
+
+
 
 ---
 
