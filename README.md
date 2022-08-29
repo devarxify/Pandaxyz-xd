@@ -44,4 +44,4 @@ location = "Spain"
 <a href="https://discord.com/users/801950534680182784" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="https://discord.com/users/801950534680182784" height="30" width="40" /></a>
 </p>
 
-[<img src="https://i.imgur.com/RBnZXLQ.gif">](https://youtu.be/iik25wqIuFo)
+[<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">](https://youtu.be/iik25wqIuFo)
