@@ -18,7 +18,7 @@ from git import Github
 
 # about Pandaxyz-xd alias: Panda.xyz
 github = "https://github.com/Pandaxyz-xd"
-website = "https://pandaxyz-xd.netlify.app/"
+website = "https://github-pandaxyz.netlify.app/"
 alias = "Panda.xyz"
 location = "Spain"
 ```
