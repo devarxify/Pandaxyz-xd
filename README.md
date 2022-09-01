@@ -34,6 +34,14 @@ location = "Spain"
  
 [<img src="https://i.imgur.com/RBnZXLQ.gif">](https://youtu.be/iik25wqIuFo)
 
+<h3 align="center"> S T A T S</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=Pandaxyz-xd&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pandaxyz-xd&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandaxyz-xd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+[<img src="https://i.imgur.com/RBnZXLQ.gif">](https://youtu.be/iik25wqIuFo)
+
 <h3 align="center"> C O N T A C T </h3>
 
 <p align="center">
