@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple" alt="pandaxyz-xd" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=pandaxyz-xd&show_icons=true&theme=midnight-purple" alt="pandaxyz-xd" /> 
 </p>
 
 
