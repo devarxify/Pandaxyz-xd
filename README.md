@@ -6,13 +6,19 @@
 
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/801950534680182784.png" alt="pandaxyz-xd" /> 
+</p>
 
 
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pandaxyz-xd&repo=pandaxyz-xd.github.io&theme=discord_old_blurple" alt="pandaxyz-xd" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pandaxyz-xd&show_icons=true&theme=midnight-purple" alt="pandaxyz-xd" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=pandaxyz-xd&show_icons=true&theme=discord_old_blurple" alt="pandaxyz-xd" /> 
 </p>
+
+
 
 ---
 
