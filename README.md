@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pandaxyz-xd&repo=pandaxyz-xd.github.io&theme=discord_old_blurple" alt="pandaxyz-xd" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pandaxyz-xd&repo=discord-api-docs&theme=discord_old_blurple" alt="pandaxyz-xd" />
 </p>
 
 <p align="center">
