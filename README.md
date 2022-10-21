@@ -8,7 +8,7 @@
 <p align="center"> 🌍 I live in Spain </p>
 <p align="center"> 🖥️ This is my Portfolio: <a href="https://pandaxyz-xd.github.io/">PandaxyzWebsite</a> </p>
 <p align="center"> ✉️ Contact me from: pandaxyz.business@gmail.com </p>
-<p align="center"> 🚀  I'm currently working on: <a href="http://https://github.com/Pandaxyz-xd/SERVER-LOOKUP-PRO"> SERVER-LOOKUP-PRO </a> </p>
+<p align="center"> 🚀  I'm currently working on: <a href="https://github.com/Pandaxyz-xd/SERVER-LOOKUP-PRO"> SERVER-LOOKUP-PRO </a> </p>
 
 
 
