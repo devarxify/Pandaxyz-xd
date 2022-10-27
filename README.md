@@ -1,13 +1,13 @@
 
+
+
+
+
+
+
+<p align="center">
 <a href="https://discord.com/users/801950534680182784">
 <img  src="https://discord.c99.nl/widget/theme-2/801950534680182784.png" alt="pandaxyz-xd" /> 
-
-
-
-
-
-
-
 
 
 
