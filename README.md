@@ -27,3 +27,4 @@ src="https://img.shields.io/github/followers/Pandaxyz-xd?logo=github&style=for-t
 <p align="center"> 🌐 <a href="https://pandaxyz-xd.github.io/"> Portfolio </a> </p>
 <p align="center"> 🔵 <a href="https://discord.com/invite/Gsk2K6kKPU"> Discord </a> </p> 
 <p align="center"> 🔴 <a href="https://www.youtube.com/channel/UCjUTSEfVbWGrVcHZTas-low"> YouTube </a> </p> 
+<p align="center"> ✉️ <a href="https://t.me/imPandaxyz"> Telegram </a> </p> 
