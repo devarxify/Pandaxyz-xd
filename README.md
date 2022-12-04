@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://pandaxyz-xd.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=A617F7&width=458&lines=Welcome!+++I'm+++Pandaxyz">
+  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=4cc9f0&width=458&lines=Welcome!+++I'm+++Pandaxyz">
 </a>
 </p>
 <p align="center">
