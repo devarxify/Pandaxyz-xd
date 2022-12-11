@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/Pandaxyz-xd?logo=github&style=for-t
   
 ---
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,nodejs,java,godot,js,ts,html,css,&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,gcp,bootstrap,discord,figma,firebase,git,nextjs,tailwind,vite,wordpress,&theme=dark"/>
 </p>
 
 ---
