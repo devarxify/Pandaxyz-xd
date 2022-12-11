@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/Pandaxyz-xd?logo=github&style=for-t
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/pandaxyzxd">
-  <img widht="60px" height="60px" src="https://i.imgur.com/48saWum.png">
+  <img widht="160px" height="160px" src="bmac.jpg">
   </a>
   
 ---
