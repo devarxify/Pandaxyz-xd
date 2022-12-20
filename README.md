@@ -2,7 +2,7 @@
 </p>
 <p align="center">
 <a href="https://discord.com/users/801950534680182784">
-<img src="https://lanyard-profile-readme.vercel.app/api/801950534680182784?theme=dark&bg=292b2f&animated=true&hideDiscrim=true&borderRadius=27px&idleMessage=Always%20programming%20💗">
+<img src="https://lanyard-profile-readme.vercel.app/api/801950534680182784?theme=dark&bg=292b2f&animated=false&hideDiscrim=true&borderRadius=27px&idleMessage=Always%20programming%20💗">
  </a>
 
 
