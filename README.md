@@ -1,10 +1,15 @@
+<div align="center">
+<image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Welcome+to+my+profile+on+github">
+</div>
 
-</p>
+
 <p align="center">
 <a href="https://discord.com/users/801950534680182784">
 <img src="https://lanyard-profile-readme.vercel.app/api/801950534680182784?theme=dark&bg=292b2f&animated=false&hideDiscrim=true&borderRadius=27px&idleMessage=Always%20programming%20💗">
 <div align="center">
 
+
+ 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whitee)
 ![linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![BAHS](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
